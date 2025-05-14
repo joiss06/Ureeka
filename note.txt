@@ -1,0 +1,14 @@
+Github
+
+- git clone
+- git push
+- git pull
+- git merge
+- git add = git save all
+- git commit : save
+- git checkout -b [nama branch]: make new branch
+- git status
+
+note:
+- touch [nama file] = buat file baru
+cth: touch note.txt
